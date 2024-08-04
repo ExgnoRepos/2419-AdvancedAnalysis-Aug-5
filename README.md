@@ -1,1 +1,4 @@
-# 2419-AdvancedAnalysis-Aug-5
+# Advanced Analysis Class Repository
+
+This repository will be available until September
+
